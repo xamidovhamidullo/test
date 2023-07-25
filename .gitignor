@@ -2,6 +2,6 @@ venv
 .idea
 db.sqlite3
 main/migrations/**
-!homemigrations/__init__.py
+!home/migrations/__init__.py
 
 
